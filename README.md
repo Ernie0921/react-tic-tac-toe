@@ -1,4 +1,4 @@
-# react-rw5gnk
+# react-tic-tac-toe
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-rw5gnk)
 
